@@ -1,10 +1,10 @@
 # React course by Maximilian Schwarzmüller
 
-You can visit _https://tailwindcss.com/_ for documentation. Under Installation, choose Vite.
+You can visit _https://tailwindcss.com/_ for documentation. Under Installation, choose **Vite**.
 
-> npm install tailwindcss @tailwindcss/vite
-> Configure the Vite plugin as shown.
-> On VS Code, install Tailwind CSS IntelliSense and restart the VS Code.
+- npm install tailwindcss @tailwindcss/vite
+- Configure the Vite plugin as shown.
+- On VS Code, install Tailwind CSS IntelliSense and restart the VS Code.
 
 Then we can start using it. Just read the docs for which class name does what.
 
@@ -31,8 +31,8 @@ export default function Header() {
 
 The lecture was recorded with Tailwind v3. You can read the docs for installing v3. Just select the version on the top of the page and click Docs. Make sure to select Vite as the framework.
 
-> npm install -D tailwindcss@3 postcss autoprefixer
-> npx tailwindcss@3 init -p
+- npm install -D tailwindcss@3 postcss autoprefixer
+- npx tailwindcss@3 init -p
 
 After following the instructions, the _tailwind.config.js_ file looks like this.
 
